@@ -615,7 +615,8 @@ footer {
 #contact {
     padding: 50px 15px;
     background: #3498db;
-    text-align: center
+    text-align: center;
+    
 }
 
 #contact h2 {
@@ -631,7 +632,7 @@ footer {
 
 #contact-form input,
 #contact-form textarea {
-    display: block;
+    
     width: 100%;
     padding: 10px;
     border-radius: 4px;
@@ -677,7 +678,8 @@ footer {
 
 #contact-form button {
     display: block;
-    width: 100%;
+    width: 64%;
+    margin: auto;
     background: #fff;
     border-radius: 4px;
     padding: 5px 10px;
